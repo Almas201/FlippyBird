@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ea8a34339e4ac9468c29ac96732a55d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipe: {fileID: 4653528757663911136, guid: 280ea2209a597324f91ae4b738d2cd78, type: 3}
+  - scoreController: {instanceID: 0}
+  - birdController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
